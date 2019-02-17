@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1024"
+   height="500"
+   viewBox="0 0 1024 500"
+   version="1.1"
+   id="svg4520"
+   sodipodi:docname="feature.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   inkscape:export-filename="C:\Users\Marcel Dopita\Downloads\icon512.png"
+   inkscape:export-xdpi="2048"
+   inkscape:export-ydpi="2048">
+  <metadata
+     id="metadata4526">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4524" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1604"
+     inkscape:window-height="1368"
+     id="namedview4522"
+     showgrid="false"
+     inkscape:zoom="0.76327021"
+     inkscape:cx="533.03439"
+     inkscape:cy="53.245243"
+     inkscape:window-x="945"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg4520" />
+  <path
+     d="m 0,476 h 24 v 24 H 0 Z"
+     id="path4516"
+     inkscape:connector-curvature="0"
+     style="fill:none" />
+  <g
+     id="g4537"
+     transform="translate(-29.201015)">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#e33b3b;fill-opacity:1;stroke-width:7.31416702"
+       id="path4518"
+       d="m 103.34783,225.2781 c 8.99645,0 17.70026,1.46287 25.81905,4.09597 2.55993,0.87739 5.41243,0.21911 7.38725,-1.75543 l 11.48323,-14.40889 c 20.69909,9.87413 40.08162,28.52522 50.39463,49.95574 L 184.16933,275.307 c -1.97483,2.04799 -2.55994,4.90048 -1.75534,7.46042 2.70626,8.11879 4.09588,16.82259 4.09588,25.81905 0,3.94965 3.29138,7.24103 7.24103,7.24103 h 25.30701 c 3.94965,0 8.7039,-1.75544 8.7039,-7.24103 0,-67.94865 -56.53849,-124.41398 -124.41398,-124.41398 -5.193038,0 -7.241028,4.60793 -7.241028,8.63074 v 25.23384 c 0,3.94965 3.29138,7.24103 7.241028,7.24103 z" />
+    <text
+       id="text4532"
+       y="267.65625"
+       x="271.20148"
+       style="font-style:normal;font-weight:normal;font-size:64px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="267.65625"
+         x="271.20148"
+         id="tspan4530"
+         sodipodi:role="line">Callback pro Odorik.cz</tspan></text>
+  </g>
+</svg>
