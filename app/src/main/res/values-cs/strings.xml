@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Callback</string>
+    <string name="send">Odeslat</string>
+    <string name="config">Nastavení</string>
+    <string name="phone">Telefonní číslo</string>
+    <string name="user">Uživatel</string>
+    <string name="password">Heslo</string>
+    <string name="caller">Volající</string>
+    <string name="balance">Kredit</string>
+    <string name="other">Ostatní</string>
+    <string name="account">Nastavení účtu</string>
+    <string name="user_summary">ID uživatele nebo linky</string>
+    <string name="recipient_phone">Volané telefonní číslo</string>
+    <string name="balance_summary">Zjistit stav kreditu</string>
+</resources>

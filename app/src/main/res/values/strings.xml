@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Callback</string>
+    <string name="send">Send</string>
+    <string name="config">Config</string>
+    <string name="phone">Phone number</string>
+    <string name="recipient_phone">Called phone number</string>
+    <string name="user">User</string>
+    <string name="user_summary">User or link ID</string>
+    <string name="password">Password</string>
+    <string name="caller">Caller</string>
+    <string name="account">Account settings</string>
+    <string name="other">Other</string>
+    <string name="balance">Balance</string>
+    <string name="balance_summary">Request current balance</string>
+</resources>

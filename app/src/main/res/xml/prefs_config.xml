@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="@string/config">
+
+    <PreferenceCategory
+        android:title="@string/account" >
+
+        <EditTextPreference
+            android:key="pref_user"
+            android:inputType="number"
+            android:title="@string/user"
+            android:summary="@string/user_summary" />
+        <EditTextPreference
+            android:key="pref_password"
+            android:inputType="textPassword"
+            android:title="@string/password" />
+        <EditTextPreference
+            android:key="pref_caller"
+            android:inputType="number"
+            android:title="@string/caller"
+            android:summary="@string/phone" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="@string/other" >
+
+        <Preference
+            android:key="balance"
+            android:title="@string/balance"
+            android:summary="@string/balance_summary" />
+
+    </PreferenceCategory>
+
+
+</PreferenceScreen>
